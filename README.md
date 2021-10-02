@@ -14,3 +14,7 @@ Um App que identifica as características escritas pelo usuário e classifica qu
 <img src="https://github.com/DarlanNoetzold/Pomar-App/blob/master/Proj_Pomar3.jpg" /> 
 <img src="https://github.com/DarlanNoetzold/Pomar-App/blob/master/Proj_Pomar4.jpg" />
 <img src="https://github.com/DarlanNoetzold/Pomar-App/blob/master/Proj_Pomar5.jpg" />
+
+  ---
+  
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
